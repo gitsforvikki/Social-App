@@ -34,13 +34,19 @@ mongoose.connect(process.env.MONGO_DB_CLOUD_URL , {
 
 
 //simple request/url
+app.get('/' , (request , response)=>{
+    response.send(`<h2>Welcome to React Social Backend App </h2>`);
+});
 
+/*
+//for deployment purpose
 if(process.env.NODE_ENV === "production"){
     app.use(express.static(path.join(__dirname , 'client' , 'build')));
     app.get('/', (request,response) => {
         response.sendFile(path.join(__dirname , 'client' , 'build' , 'index.html'));
     });
 }
+*/
 
 app.listen(port , ()=>{
     console.log(`Express Server is  started at PORT : ${port}`);

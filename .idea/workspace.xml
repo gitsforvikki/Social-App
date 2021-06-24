@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b389bff6-b62b-4393-82a8-0714f2f5ba3d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/css/2.539e4893.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/css/2.539e4893.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/css/main.11099314.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/css/main.11099314.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.07248ce3.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.07248ce3.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.07248ce3.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/3.5b099bfb.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/3.5b099bfb.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.5fd3626d.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.5fd3626d.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/runtime-main.e9e102ad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/runtime-main.e9e102ad.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/arrow_left.db6e2d88.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/arrow_right.f7c6ac6d.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/bg-image.4e9a210e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-brands-400.216edb96.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-brands-400.329a95a9.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-brands-400.89a52ae1.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-brands-400.9e138496.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-brands-400.c1210e5e.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-regular-400.1017bce8.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-regular-400.19e27d34.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-regular-400.36722648.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-regular-400.4079ae2d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-regular-400.68c5af1f.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-solid-900.07c3313b.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-solid-900.13de59f1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-solid-900.ada6e6df.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-solid-900.c6ec0800.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/media/fa-solid-900.efbd5d20.eot" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
@@ -56,17 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,7 +58,6 @@
         <option value="$PROJECT_DIR$/client/src/util/userUtil.js" />
         <option value="$PROJECT_DIR$/client/src/util/authUser.js" />
         <option value="$PROJECT_DIR$/client/src/util/authUtil.js" />
-        <option value="$PROJECT_DIR$/router/userRouter.js" />
         <option value="$PROJECT_DIR$/client/src/redux/users/user.reducer.js" />
         <option value="$PROJECT_DIR$/client/src/models/profiles/dashboard/Dashboard.js" />
         <option value="$PROJECT_DIR$/client/src/models/profiles/edit-profile/EditProfile.js" />
@@ -116,12 +66,10 @@
         <option value="$PROJECT_DIR$/client/src/redux/profiles/profile.action.js" />
         <option value="$PROJECT_DIR$/client/src/models/profiles/create-profiles/CreateProfile.js" />
         <option value="$PROJECT_DIR$/client/src/redux/rootReducer.js" />
-        <option value="$PROJECT_DIR$/client/src/App.js" />
         <option value="$PROJECT_DIR$/client/src/models/posts/post-details/PostDetails.js" />
         <option value="$PROJECT_DIR$/router/postRouter.js" />
         <option value="$PROJECT_DIR$/client/src/redux/post/post.reducer.js" />
         <option value="$PROJECT_DIR$/client/src/redux/post/post.actions.js" />
-        <option value="$PROJECT_DIR$/client/src/models/posts/post-list/PostList.js" />
         <option value="$PROJECT_DIR$/client/src/redux/users/user.action.js" />
         <option value="$PROJECT_DIR$/client/public/index.html" />
         <option value="$PROJECT_DIR$/client/src/models/users/user-register/Register.js" />
@@ -132,8 +80,11 @@
         <option value="$PROJECT_DIR$/client/src/redux/developers/developers.actions.js" />
         <option value="$PROJECT_DIR$/client/src/redux/developers/developers.reducers.js" />
         <option value="$PROJECT_DIR$/client/src/models/developers/developer-list/DeveloperList.js" />
-        <option value="$PROJECT_DIR$/client/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/router/userRouter.js" />
+        <option value="$PROJECT_DIR$/client/src/models/posts/post-list/PostList.js" />
+        <option value="$PROJECT_DIR$/client/src/App.js" />
+        <option value="$PROJECT_DIR$/client/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
@@ -163,8 +114,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1005" />
-    <option name="height" value="1030" />
+    <option name="width" value="1035" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -181,6 +132,11 @@
               <item name="social-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="social-app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="social-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="social-app" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -191,19 +147,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../online-shoping" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Workspace\React_is_Workspace\social-app\client\src\util" />
       <recent name="E:\Workspace\React_is_Workspace\social-app\client\public" />
       <recent name="E:\Workspace\React_is_Workspace\social-app\client\src\assets\img" />
       <recent name="E:\Workspace\React_is_Workspace\social-app\client\src\models\profiles\edit-profile" />
       <recent name="E:\Workspace\React_is_Workspace\social-app\client\src\models\profiles\dashboard" />
-      <recent name="E:\Workspace\React_is_Workspace\social-app\client\src\models\profiles\create-profiles" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,18 +211,20 @@
       <workItem from="1623362181598" duration="2203000" />
       <workItem from="1623387770684" duration="8776000" />
       <workItem from="1623404275955" duration="4769000" />
-      <workItem from="1623409580772" duration="1854000" />
+      <workItem from="1623409580772" duration="10424000" />
+      <workItem from="1623470323883" duration="4406000" />
+      <workItem from="1623514200418" duration="921000" />
+      <workItem from="1623580008075" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212926000" />
+    <option name="totallyTimeSpent" value="226884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22405817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21150033" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.504957" side_tool="true" weight="0.7051282" />
@@ -298,20 +256,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/router/userRouter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
-          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -452,13 +396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="44" column="64" lean-forward="true" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/Posts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -487,38 +424,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/router/postRouter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3078">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/redux/post/post.actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/models/posts/post-list/PostList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="144" column="113" lean-forward="true" selection-start-line="144" selection-start-column="113" selection-end-line="144" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/redux/users/user.action.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/router/userRouter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="83" column="20" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -620,22 +529,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/package.json">
+    <entry file="file://$PROJECT_DIR$/client/src/models/posts/post-list/PostList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        <state relative-caret-position="270">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/redux/post/post.actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/postRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/userRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/util/PrivateRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -644,10 +584,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="297">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
         </state>
       </provider>
     </entry>
